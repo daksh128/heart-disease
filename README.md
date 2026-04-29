@@ -23,6 +23,7 @@ python heart.py
 Enter the required details to get prediction.
 
 📊 Features
+
 Predicts heart disease using Logistic Regression
 Takes user input from console
 Shows training and testing accuracy
