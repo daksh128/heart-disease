@@ -13,10 +13,12 @@ NumPy
 Scikit-learn
 
 ▶️ How to Run
+
 Install libraries:
 pip install numpy pandas scikit-learn
 
 Run the program:
+
 python heart.py
 Enter the required details to get prediction.
 
